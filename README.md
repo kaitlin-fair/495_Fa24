@@ -2,16 +2,27 @@
 
 ## Required Software and Virtual Environment
 
-(1) Set up a GitHub Account and familiarize yourself with how to use it. Here's a great reference used in ECE281: https://usafa-ece.github.io/ece281-book/appendix/github.html
+(1)  For this course, you will need a Python environment that uses **python 3.10.11** with specific software packages listed in requirements.txt in this repository. [Download Python 3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) - This link will download the *.exe file for Python 3.10.11. Double click the downloaded file to start the installer. *Be sure to check the box that says add to PATH!*
 
-(2)  For this course, you will need a Python environment that uses **python 3.10.11** with specific software packages listed in requirements.txt in this repository. [Download Python 3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) - This link will download the *.exe file for Python 3.10.11. Double click the downloaded file to start the installer. Be sure to check the box that says add to PATH!
+(2) Set up a GitHub Account and familiarize yourself with how to use it. Here's a great reference used in ECE281: https://usafa-ece.github.io/ece281-book/appendix/github.html
 
-(3) Install VS Code: https://code.visualstudio.com/download
+(3) Fork this repository
 
 (4) Install Git: https://git-scm.com/download/win
 
-(5) Link Git to GitHub. I did so using VS Code by clicking the little waving cat on the left vertical toolbar.
+(5) Install VS Code: https://code.visualstudio.com/download
+
+(6) Link Git to GitHub. I did so using VS Code by clicking the little waving cat on the left vertical toolbar.
 For troubleshooting: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository
+
+(7) Make a new folder called `495_workspace` in your home folder, for example, C:\Users\kaitlin.fair\495_workspace.  
+
+(7) Right-click on the `495_workspace` folder and choose `Git Bash Here` from the menu.
+
+(8) In your Github forked repository, click the green `<> code` button and copy the HTTPS url. 
+
+---
+
 
 (6) Create a virtual environment using Python 3.10.11. The process to do so is to create a new environment using Python 3.10.11, activate the new environment, then download the packages using the requirements.txt file. 
 

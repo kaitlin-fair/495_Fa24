@@ -4,18 +4,16 @@
 
 (1) Set up a GitHub Account and familiarize yourself with how to use it. Here's a great reference used in ECE281: https://usafa-ece.github.io/ece281-book/appendix/github.html
 
-(2) Fork this repository, [this one](https://github.com/kaitlin-fair/495_tutorials), and [this one](https://github.com/kaitlin-fair/495_labs).
+(2)  For this course, you will need a Python environment that uses **python 3.10.11** with specific software packages listed in requirements.txt in this repository. [Download Python 3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) - This link will download the *.exe file for Python 3.10.11. Double click the downloaded file to start the installer. Be sure to check the box that says add to PATH!
 
-(3)  For this course, you will need a Python environment that uses **python 3.10.11** with specific software packages listed in requirements.txt in this repository. [Download Python 3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) - This link will download the *.exe file for Python 3.10.11. Double click the downloaded file to start the installer. Be sure to check the box that says add to PATH!
+(3) Install VS Code: https://code.visualstudio.com/download
 
-(4) Install VS Code: https://code.visualstudio.com/download
+(4) Install Git: https://git-scm.com/download/win
 
-(5) Install Git: https://git-scm.com/download/win
-
-(6) Link Git to GitHub. I did so using VS Code by clicking the little waving cat on the left vertical toolbar.
+(5) Link Git to GitHub. I did so using VS Code by clicking the little waving cat on the left vertical toolbar.
 For troubleshooting: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository
 
-(7) Create a virtual environment using Python 3.10.11. The process to do so is to create a new environment using Python 3.10.11, activate the new environment, then download the packages using the requirements.txt file. 
+(6) Create a virtual environment using Python 3.10.11. The process to do so is to create a new environment using Python 3.10.11, activate the new environment, then download the packages using the requirements.txt file. 
 
 If you are using Anaconda, these commands should do the trick:  
 - `conda create --name 495venv python=3.10` -- This command gives your new environment a name of *495venv*, however you can name it whatever you'd like.  
